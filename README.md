@@ -1,6 +1,6 @@
 # Rest Assured API tests
 
-Suite of API tests using Rest Assured in Java. Features developed:
+Suite of API tests using Rest Assured in Java using the Google Books API. Features developed:
 
 + Get Book by ISBN
 + Get Books by Author
